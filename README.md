@@ -163,7 +163,7 @@ A well-designed backend can improve reliability, scalability and performance for
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Btwitsdksh13/Btwitsdksh13/output/github-contribution-grid-snake-dark.svg"
+    src="./github-contribution-grid-snake-dark.svg"
     alt="Contribution Snake"
   />
 </p>
