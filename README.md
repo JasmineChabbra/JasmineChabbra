@@ -146,24 +146,10 @@ A well-designed backend can improve reliability, scalability and performance for
 
 ## 🐍 Contribution Activity
 
-<!-- <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/JasmineChabbra/JasmineChabbra/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/JasmineChabbra/JasmineChabbra/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub contribution snake animation"
-    src="https://raw.githubusercontent.com/JasmineChabbra/JasmineChabbra/output/github-contribution-grid-snake.svg"
-  />
-</picture> -->
 
 <p align="center">
   <img
-    src="./github-contribution-grid-snake-dark.svg"
+    src="./github-contribution-grid-snake-dark-jasmine.svg"
     alt="Contribution Snake"
   />
 </p>
